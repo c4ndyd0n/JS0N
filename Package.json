@@ -1,6 +1,6 @@
 {
   "_from": "fca-candy-darkster@latest",
-  "_id": "fca-candy-darkster@21.0.3",
+  "_id": "fca-candy-darkster@25.0.3",
   "_inBundle": false,
   "_integrity": "sha512-tuP6Vw7yM5rDtJujQIALfDrwWjhh3cXv154AQ6jV087sTW7HQ30B3cSzEvRlzlPzWo1vIoUYKr/09AtgeE9r0Q==",
   "_location": "/fca-candy-darkster",
@@ -112,7 +112,7 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/fca-candy-darkster/-/fca-candy-darkster-21.0.3.tgz",
+  "_resolved": "https://registry.npmjs.org/fca-candy-darkster/-/fca-candy-darkster-25.0.3.tgz",
   "_shasum": "7f03b77f8c7da9f1765085089de42cf1f251d01c",
   "_spec": "fca-candy-darkster@latest",
   "_where": "/home/runner/Chantell",
@@ -207,5 +207,5 @@
     "prettier": "prettier utils.js src/* --write",
     "test": "mocha"
   },
-  "version": "21.0.3"
+  "version": "25.0.3"
 }
